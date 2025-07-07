@@ -4,7 +4,7 @@ Obsidian
 	- [Статья 1](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbWtmMkEtb1lPdzlZYmpHVG11VzZoQ2VISUhHZ3xBQ3Jtc0trSWN3RUYtMDVfZFlHX2pyVXgxOVp5TVNlSTNYdVVURHBHNXRoNDRmX0pSUVZMbTNjNlh0Y19yd0tlMUEtTUN5amM4ZjNqUlFOWUhxQjItN3pLSi1Xc0xycE9KU29Mc2VGSWUtd25acjA5UUtVdEFIVQ&q=https%3A%2F%2Fhabr.com%2Fru%2Fcompanies%2Fozonbank%2Farticles%2F838990%2F)
 	- [Статья 2](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbUpyVS1CQ1RTZjB1ckFtdUthazFtOUtGdURXUXxBQ3Jtc0trX1lRWDdKeHNhWUttMk10LW1BeFJFRmRWWTFzZU9ZUFFMRXVqWlV2LThJR3JWNS1vbTRONmV0eXdRRHNJTHZoS0VyU2Jhakt1eFdjS0VRV200S1o0TjJYTkVpUG9qRk5Fc2w2RWpRZXB0cGZ5U20yaw&q=https%3A%2F%2Fhabr.com%2Fru%2Farticles%2F861230%2F)
 	- [Статья 3](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbnJERXpjR1RWX01NOFdDb211YV9JNWh6Q05BUXxBQ3Jtc0ttZEMtS215czhXWlpSR3o4cng2RHM1Rzk0bG5Gc28yYU56S1NmRVJQTTNLSmZ6NFkwYTE0cS03OFM5SUczcUN5djN5cjUzSE45SkdTR05UU1NFMHBhRlllVnh4am11dWJsaTZOdXpHbUdEbW8xcV9mYw&q=https%3A%2F%2Fhabr.com%2Fru%2Farticles%2F820669%2F)
-Linux
+Linux [[База знаний Linux]]
 	- [Семаев LPIC-1](https://www.youtube.com/watch?v=rKCu-tfL730&list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc)
 	- [Основы GNU/Linux и подготовка к RHCSA](https://www.youtube.com/watch?v=acqAnwP_WZU&list=PLisqB92_b4TlQH3jVGf6lrFMVqalCTjAQ)
 	- [Кетов Как работает Linux](https://www.youtube.com/watch?v=V3gI8-8k8Q4&list=PLHHm04DXWzeKZycf_ZuBgxWdVBnrjE_mj)
