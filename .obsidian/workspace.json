@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "f277a3e857486ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "61d2f98171ee64c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be1dc07f03f9876f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Git/Команды git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Команды git"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bafac08e05fff147",
+    "type": "split",
+    "children": [
+      {
+        "id": "5210a2ce21b35860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "803ed28699d5eac2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5e17f3f9d71fd948",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "896bc2b9110bba90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "8e98fdb7de9c95e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5f5c5bb1a7c6b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e016a4382b9f68",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f7150f19dbd42e4a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0cba89341f4f91d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_souce/Road Map DevOps-инженера.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Road Map DevOps-инженера"
+            }
+          },
+          {
+            "id": "c121579f26013ae0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "0d0249f1c4effe75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Обучение/Linux/8. Системные сервисы и демоны.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 8. Системные сервисы и демоны"
+            }
+          },
+          {
+            "id": "84a8722bdc7d4b62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Обучение/Linux/8. Системные сервисы и демоны.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 8. Системные сервисы и демоны"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5e17f3f9d71fd948",
+  "lastOpenFiles": [
+    "test.md",
+    "Обучение/Git/Команды git.md",
+    "test file.md",
+    "_souce/info GIT.pdf",
+    "Без названия.canvas",
+    "SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
+    "123.md",
+    "Обучение/Linux/_main.md",
+    "Обучение/Linux/1. Основы Linux.md",
+    "Обучение/Linux/8. Системные сервисы и демоны.md",
+    "test git.md",
+    "Тренировки/Программа тренировок.md",
+    "Обучение/Git",
+    "Обучение/Linux/2. Работа с фалами и каталогами.md",
+    "Обучение/Linux/7. Сеть.md",
+    "Обучение/Linux/10. Шелл (bash) и скрипты.md",
+    "_souce/Road Map DevOps-инженера.md",
+    "Обучение/Linux/3. Права доступа и владельцы.md",
+    "Обучение/Linux/5. Управление процессами.md",
+    "Обучение/Linux/4. Текстовые редакторы.md",
+    "_souce/Порты 3.png",
+    "_souce/Порты 2.png",
+    "_souce/Порты.png",
+    "Обучение/Linux/13. Журналирование событий.md",
+    "Обучение/Linux/Изучение линукса по курсу Семаева (2ая часть).md",
+    "Обучение/Linux/9. Диски и файловые системы.md",
+    "Обучение/Linux/11. Резервное копирование и архивация.md",
+    "Обучение/Linux/12. Планировщики задач.md",
+    "_souce/Регулярные выражения.png",
+    "тестовая заметка.md",
+    "Обучение/Linux/6. Пакетные менеджеры.md",
+    "Тренировки",
+    "Обучение/Linux/База знаний Linux.md",
+    "Обучение/Linux/Конфигурационные файлы Linux.md",
+    "Обучение/Linux",
+    "Обучение/Linux/Без названия.canvas",
+    "_souce/Права sgid, suid, sticky (таблица).png",
+    "_souce/Права (таблица).png",
+    "_souce/Планировщик cron.png",
+    "_souce/Жесткий диск.png",
+    "Pasted image 20250701115442.png",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Pasted image 20250623231001.png",
+    "Обучение/Linux/Команды по категориям",
+    "_souce",
+    "Обучение/Linux",
+    "Обучение",
+    "Полезная информация"
+  ]
+}

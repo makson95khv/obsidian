@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#9f3891",
+  "baseFontSizeAction": true,
+  "baseFontSize": 14,
+  "nativeMenus": false,
+  "cssTheme": "Atom",
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
+}
