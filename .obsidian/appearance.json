@@ -1,8 +1,8 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "accentColor": "#9f3891",
   "baseFontSizeAction": true,
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "nativeMenus": false,
   "cssTheme": "Atom",
   "interfaceFontFamily": "",

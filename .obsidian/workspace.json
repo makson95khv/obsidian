@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e98fdb7de9c95e1",
@@ -192,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e17f3f9d71fd948",
+  "active": "be1dc07f03f9876f",
   "lastOpenFiles": [
     "test.md",
     "Обучение/Git/Команды git.md",
