@@ -1,10 +1,10 @@
 {
   "theme": "moonstone",
-  "accentColor": "#9f3891",
+  "accentColor": "#9853d0",
   "baseFontSizeAction": true,
   "baseFontSize": 15,
   "nativeMenus": false,
-  "cssTheme": "Atom",
+  "cssTheme": "",
   "interfaceFontFamily": "",
   "textFontFamily": ""
 }

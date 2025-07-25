@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "show",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,13 +75,11 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 390.5
   },
   "right": {
     "id": "8e98fdb7de9c95e1",
@@ -193,23 +191,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be1dc07f03f9876f",
+  "active": "803ed28699d5eac2",
   "lastOpenFiles": [
-    "test.md",
+    "Тренировки/Программа тренировок.md",
+    "Обучение/Linux/7. Сеть.md",
+    "Без названия.canvas",
     "Обучение/Git/Команды git.md",
+    "Обучение/Linux/Изучение линукса по курсу Семаева (2ая часть).md",
+    "test.md",
     "test file.md",
     "_souce/info GIT.pdf",
-    "Без названия.canvas",
     "SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
     "123.md",
     "Обучение/Linux/_main.md",
     "Обучение/Linux/1. Основы Linux.md",
     "Обучение/Linux/8. Системные сервисы и демоны.md",
     "test git.md",
-    "Тренировки/Программа тренировок.md",
     "Обучение/Git",
     "Обучение/Linux/2. Работа с фалами и каталогами.md",
-    "Обучение/Linux/7. Сеть.md",
     "Обучение/Linux/10. Шелл (bash) и скрипты.md",
     "_souce/Road Map DevOps-инженера.md",
     "Обучение/Linux/3. Права доступа и владельцы.md",
@@ -219,7 +218,6 @@
     "_souce/Порты 2.png",
     "_souce/Порты.png",
     "Обучение/Linux/13. Журналирование событий.md",
-    "Обучение/Linux/Изучение линукса по курсу Семаева (2ая часть).md",
     "Обучение/Linux/9. Диски и файловые системы.md",
     "Обучение/Linux/11. Резервное копирование и архивация.md",
     "Обучение/Linux/12. Планировщики задач.md",
