@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "show",
+                "query": "mv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 200
   },
   "right": {
     "id": "8e98fdb7de9c95e1",
@@ -191,26 +191,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "803ed28699d5eac2",
+  "active": "be1dc07f03f9876f",
   "lastOpenFiles": [
+    "Обучение/Linux/1. Основы Linux.md",
+    "Обучение/Linux/_main.md",
+    "Обучение/Git/Команды git.md",
     "Тренировки/Программа тренировок.md",
+    "_souce/Road Map DevOps-инженера.md",
     "Обучение/Linux/7. Сеть.md",
     "Без названия.canvas",
-    "Обучение/Git/Команды git.md",
     "Обучение/Linux/Изучение линукса по курсу Семаева (2ая часть).md",
     "test.md",
     "test file.md",
     "_souce/info GIT.pdf",
     "SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
     "123.md",
-    "Обучение/Linux/_main.md",
-    "Обучение/Linux/1. Основы Linux.md",
     "Обучение/Linux/8. Системные сервисы и демоны.md",
     "test git.md",
     "Обучение/Git",
     "Обучение/Linux/2. Работа с фалами и каталогами.md",
     "Обучение/Linux/10. Шелл (bash) и скрипты.md",
-    "_souce/Road Map DevOps-инженера.md",
     "Обучение/Linux/3. Права доступа и владельцы.md",
     "Обучение/Linux/5. Управление процессами.md",
     "Обучение/Linux/4. Текстовые редакторы.md",
