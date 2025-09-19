@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/Linux/scripts/Заметки по скриптам.md",
+                "file": "Обучение/Git/Команды git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки по скриптам"
+              "title": "Команды git"
             }
           }
         ],
