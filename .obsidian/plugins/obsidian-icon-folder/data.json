@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiScrollText",
+      "LiInfo",
       "LiFolder",
       "LiAlertCircle",
-      "LiHeadphones",
-      "LiHeart",
-      "LiBadgeHelp"
+      "LiHeadphones"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,9 +47,17 @@
     "iconName": "LiHeadphones",
     "iconColor": "#ff00c8"
   },
-  "Обучение/Linux/_main.md": "LiAlertCircle",
   "Обучение/Git": {
     "iconName": "LiFolder",
     "iconColor": "#e68c0f"
+  },
+  "Обучение/Linux/base info/_main.md": "LiAlertCircle",
+  "Обучение/Linux/base info": {
+    "iconName": "LiInfo",
+    "iconColor": "#ff0000"
+  },
+  "Обучение/Linux/scripts": {
+    "iconName": "LiScrollText",
+    "iconColor": "#00e1ff"
   }
 }

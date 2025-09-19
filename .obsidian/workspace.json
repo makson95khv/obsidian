@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/Git/Команды git.md",
+                "file": "Обучение/Linux/scripts/Заметки по скриптам.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды git"
+              "title": "Заметки по скриптам"
             }
           }
         ],
@@ -95,8 +95,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -105,8 +105,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "canvas:Создать новый холст": false,
       "markdown-importer:Импорт Markdown-файлов": false,
       "graph:Граф": false,
@@ -193,37 +194,40 @@
   },
   "active": "be1dc07f03f9876f",
   "lastOpenFiles": [
-    "Обучение/Linux/1. Основы Linux.md",
-    "Обучение/Linux/_main.md",
+    "Обучение/Linux/scripts/Заметки по скриптам.md",
+    "Обучение/Linux/scripts",
+    "Обучение/Linux/base info/_main.md",
+    "Обучение/Linux/base info/3. Права доступа и владельцы.md",
+    "Обучение/Linux/base info/Изучение линукса по курсу Семаева (2ая часть).md",
+    "Обучение/Linux/base info",
     "Обучение/Git/Команды git.md",
+    "Обучение/Linux/base info/1. Основы Linux.md",
     "Тренировки/Программа тренировок.md",
     "_souce/Road Map DevOps-инженера.md",
-    "Обучение/Linux/7. Сеть.md",
+    "Обучение/Linux/base info/7. Сеть.md",
     "Без названия.canvas",
-    "Обучение/Linux/Изучение линукса по курсу Семаева (2ая часть).md",
     "test.md",
     "test file.md",
     "_souce/info GIT.pdf",
     "SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
     "123.md",
-    "Обучение/Linux/8. Системные сервисы и демоны.md",
+    "Обучение/Linux/base info/8. Системные сервисы и демоны.md",
     "test git.md",
     "Обучение/Git",
-    "Обучение/Linux/2. Работа с фалами и каталогами.md",
-    "Обучение/Linux/10. Шелл (bash) и скрипты.md",
-    "Обучение/Linux/3. Права доступа и владельцы.md",
-    "Обучение/Linux/5. Управление процессами.md",
-    "Обучение/Linux/4. Текстовые редакторы.md",
+    "Обучение/Linux/base info/2. Работа с фалами и каталогами.md",
+    "Обучение/Linux/base info/10. Шелл (bash) и скрипты.md",
+    "Обучение/Linux/base info/5. Управление процессами.md",
+    "Обучение/Linux/base info/4. Текстовые редакторы.md",
     "_souce/Порты 3.png",
     "_souce/Порты 2.png",
     "_souce/Порты.png",
-    "Обучение/Linux/13. Журналирование событий.md",
-    "Обучение/Linux/9. Диски и файловые системы.md",
-    "Обучение/Linux/11. Резервное копирование и архивация.md",
-    "Обучение/Linux/12. Планировщики задач.md",
+    "Обучение/Linux/base info/13. Журналирование событий.md",
+    "Обучение/Linux/base info/9. Диски и файловые системы.md",
+    "Обучение/Linux/base info/11. Резервное копирование и архивация.md",
+    "Обучение/Linux/base info/12. Планировщики задач.md",
     "_souce/Регулярные выражения.png",
     "тестовая заметка.md",
-    "Обучение/Linux/6. Пакетные менеджеры.md",
+    "Обучение/Linux/base info/6. Пакетные менеджеры.md",
     "Тренировки",
     "Обучение/Linux/База знаний Linux.md",
     "Обучение/Linux/Конфигурационные файлы Linux.md",
@@ -239,8 +243,6 @@
     "Pasted image 20250623231001.png",
     "Обучение/Linux/Команды по категориям",
     "_souce",
-    "Обучение/Linux",
-    "Обучение",
-    "Полезная информация"
+    "Обучение/Linux"
   ]
 }
